@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Component Templating
+title: component templating
 nav_order: 3
-parent: Home
+parent: home
 
 ---
 
