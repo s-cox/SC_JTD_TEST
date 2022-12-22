@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Asset Templating
+title: asset Templating
 nav_order: 2
-parent: Home
+parent: home
 categories: templating
 
 ---
