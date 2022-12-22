@@ -1,6 +1,5 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs
-
-url: https://s-cox.github.io/SC_JTD_TEST/
+url: "https://s-cox.github.io/SC_JTD_TEST/"
 
