@@ -2,9 +2,8 @@
 layout: default
 title: Component Templating
 nav_order: 3
-has_children: false
 parent: Home
-categories: templating
+
 ---
 
 # Component Templating
