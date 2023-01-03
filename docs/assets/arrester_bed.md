@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Arrester Bed
-Parent: Assets
-nav_order: 2
-
+parent: Assets
+nav_order: 1
 ---
 
 # Arrester Bed
