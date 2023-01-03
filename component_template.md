@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Component Template
 parent: Home
 nav_order: 2
 ---
