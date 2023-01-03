@@ -3,7 +3,7 @@ layout: default
 title: Arrester Bed
 nav_order: 1
 Parent: Assets
-categories: Asset
+categories: Assets
 ---
 
 # Arrester Bed
