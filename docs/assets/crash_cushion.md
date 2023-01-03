@@ -3,7 +3,6 @@ layout: default
 title: Crash Cushion
 nav_order: 2
 Parent: Assets
-categories: Asset
 ---
 
 # Crash Cushion
