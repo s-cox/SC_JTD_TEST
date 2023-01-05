@@ -4,9 +4,3 @@ remote_theme: just-the-docs/just-the-docs
 baseurl: "SC_JTD_TEST"
 url: "https://s-cox.github.io/"
 
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
